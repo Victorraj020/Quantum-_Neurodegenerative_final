@@ -1,0 +1,86 @@
+{
+  "PC1": {
+    "explained_variance_ratio": 0.589005041490037,
+    "top_features": [
+      {
+        "feature": "MDVP:Shimmer(dB)",
+        "weight": 0.2617713156184657
+      },
+      {
+        "feature": "MDVP:Shimmer",
+        "weight": 0.2599999934554138
+      },
+      {
+        "feature": "MDVP:PPQ",
+        "weight": 0.25652958905502465
+      },
+      {
+        "feature": "MDVP:Jitter(%)",
+        "weight": 0.2545132422376033
+      }
+    ]
+  },
+  "PC2": {
+    "explained_variance_ratio": 0.11299430050727324,
+    "top_features": [
+      {
+        "feature": "MDVP:Fo(Hz)",
+        "weight": 0.5534010307773477
+      },
+      {
+        "feature": "MDVP:Flo(Hz)",
+        "weight": 0.3954802721798924
+      },
+      {
+        "feature": "MDVP:Fhi(Hz)",
+        "weight": 0.348781527408275
+      },
+      {
+        "feature": "DFA",
+        "weight": -0.3107823469841538
+      }
+    ]
+  },
+  "PC3": {
+    "explained_variance_ratio": 0.07009226131115937,
+    "top_features": [
+      {
+        "feature": "DFA",
+        "weight": 0.46580585276096054
+      },
+      {
+        "feature": "D2",
+        "weight": -0.4281131045263516
+      },
+      {
+        "feature": "RPDE",
+        "weight": -0.3526718527644153
+      },
+      {
+        "feature": "spread2",
+        "weight": -0.34919308421652395
+      }
+    ]
+  },
+  "PC4": {
+    "explained_variance_ratio": 0.06659028178154475,
+    "top_features": [
+      {
+        "feature": "MDVP:Jitter(Abs)",
+        "weight": 0.3081168745253515
+      },
+      {
+        "feature": "Shimmer:APQ5",
+        "weight": -0.3041717400789988
+      },
+      {
+        "feature": "DFA",
+        "weight": -0.2874111334155746
+      },
+      {
+        "feature": "NHR",
+        "weight": 0.2744305914298243
+      }
+    ]
+  }
+}

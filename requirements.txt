@@ -1,0 +1,9 @@
+pennylane==0.35.1
+pennylane-lightning==0.35.1
+autoray<0.7
+rustworkx==0.14.2
+scikit-learn==1.5.2
+numpy==1.26.4
+pandas==2.2.3
+streamlit
+joblib
